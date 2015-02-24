@@ -27,3 +27,39 @@ Demonstrieren Sie am Ende jeder Stunde den aktuellen Fortschritt.
 Dokumentieren Sie sämtliche durchgeführten Konfigurationsschritte, Problemstellungen und Tests.
 
 Die Arbeit in Gruppen (maximal 3 Personen, andere Gruppenzusammenstellung als bei der letzten Übung!) ist erlaubt.
+
+Mitschrift (was Schabel gesagt hat):
+OPENLDAP 
+KONFIguration direkt im verzeichnisdienst
+
+Missing slapd.conf?? --> danach suchen google
+
+ldapmodify
+
+dpkg -reconfigure slapd --> nach dem was man konfiguriert hat
+
+gui tools für ldap verwaltung? (benutzer?)
+
+lat ldap administration toolkit
+
+master slave - replikation
+
+web administratoren ist gruppe die im verzeichnisdienst angegelt ist 
+
+ich brauch lib nss ldpap paket
+
+pam plugable authentication modules paket
+
+fileserver für unternehemn --> SAMBA
+
+postfix dovecot ldap als mail 
+
+santa dömäne? für windows client --> funzt ned mit win home --> virtuelles windows
+
+1.schritt
+ldap installieren repl machn und admin tool zur verfügung stellen 
+4-5 virtuelle mschinen 
+
+1.absatz wichtigste virt maschine
+
+
